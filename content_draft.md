@@ -17,7 +17,8 @@ Preparación
 
 
 Implementos
------------
+---------------------
+
  * molino de granos
   * rallador de queso mecánico
   * picadora de carne
