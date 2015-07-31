@@ -7,7 +7,7 @@ Esta presentación intenta transmitir los mínimos conocimientos adquiridos dura
 La experiencia
 --------------
 
-Actualmente hemos cocinado tan sólo 5 veces, pero creo que lo aprendido es ya de por sí muy valioso para quién quiere iniciarse en esta ptáctica milenaria.
+Actualmente hemos cocinado tan sólo 5 veces, pero creo que lo aprendido es ya de por sí muy valioso para quién quiera iniciarse en esta práctica milenaria.
 
 Todas las fotos y videos utilizados en la presentación son propios, tomados de alguna de las 5 instancias mencionadas.
 
