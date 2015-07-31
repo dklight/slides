@@ -1,0 +1,27 @@
+{
+  "name": "cerveza",
+  "version": "1.0.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "http://github.com/dklight",
+  "license": "MIT",
+  "description": "Cerveza artesanal en casa",
+  "authors": [
+    "Bernabé García <dklight@gmail.com>"
+  ],
+  "dependencies": {
+    "headjs": "~0.9.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dklight/slides.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
