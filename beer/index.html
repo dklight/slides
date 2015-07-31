@@ -252,6 +252,7 @@
         progress: true,
         history: true,
         center: true,
+        slideNumber: true,
 
         transition: 'zoom', // none/fade/slide/convex/concave/zoom
 
@@ -259,6 +260,7 @@
         dependencies: [
           { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'plugin/zoom-js/zoom.js', async: true },
+          { src: 'plugin/remotes/remotes.js', async: true },
           { src: 'plugin/notes/notes.js', async: true }
         ]
       });
